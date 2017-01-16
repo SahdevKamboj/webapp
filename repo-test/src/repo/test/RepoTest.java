@@ -21,7 +21,7 @@ public class RepoTest {
 	}
 	
 	private static String getObject(){
-		string s = "fdssdf";
+		String s = "fdssdf";
 		
 		return "kldjaslkjd";
 		
